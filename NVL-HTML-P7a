@@ -1,0 +1,30 @@
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>PELICULAS JOKIN</title>
+ </head>
+       <h1>TOP 10 PELICULAS JOKIN</h1>
+
+    <h2>Aqui les dejo una lista de mis 1o peliculas favoritas:</h2>
+
+
+      <ul>
+
+      	<li>FORREST GUMP</li>
+      	<li>HARRY POTTER</li>
+      	<li>SEÑOR DE LOS ANILLOS</li>
+      	<li>BENJAMIN BUTTON</li>
+      	<li>GREENBOOK</li>
+      	<li>LOS ARISTOGATOS</li>
+      	<li>EL ULTIMO SAMURAI</li>
+      	<li>BASTARDOS SIN GLORIA</li>
+
+        <p> Aqui les dejo el enlace por si quieren ver una pelicula: </p>
+
+
+    <a href=https://www.imdb.com/title/tt0088763/?ref_=nv_sr_1/> Back to the Future </a> 
+
+ <body>
+   <p>THANKSSSSS!!!!</p> 
+ </body>
+</html>
